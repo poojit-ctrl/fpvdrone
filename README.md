@@ -18,16 +18,16 @@ This thing isn’t printed yet, btw. The model is locked and loaded in Fusion 36
 
 DriftWing was designed from scratch in Fusion 360 with the idea of keeping things modular, fixable, and crash-forgiving. The frame uses custom top and bottom plates that can either be 3D printed in PLA+ or laser-cut in carbon fiber if budget allows. The arms are separated for easier swaps when the inevitable faceplant happens. Every screw, standoff, and capacitor has its space.
 
-It’s got that “I-built-this-in-my-room” energy but backed by a parts list that can punch with the big brands. The wiring is clean thanks to the 4-in-1 ESC stack, and the VTX and analog cam give it old-school FPV vibes without sacrificing clarity.
+It’s got that “I-built-this-in-my-room” energy but backed by a parts list that can punch with the big brands. The wiring is gonna be clean thanks to the 4-in-1 ESC stack, and the VTX and analog cam give it old-school FPV vibes without sacrificing clarity.
 
 ---
 
 ## Tech Specs
 
 - Motor-to-motor distance fits 5-inch props  
-- 2306 2400KV motors (recommended by @toby)  
+- 2207 2400KV motors (recommended by @toby)  
 - 4-in-1 ESC (30A) with solder tabs facing up  
-- F4 Flight Controller, stack-mounted  
+- Speedybeef405 FC
 - Power distribution through a separate PDB  
 - XT60 battery input with a 470uF cap for that ripple control  
 - GPS module slot for Return-To-Home  
@@ -45,8 +45,8 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 |----------------------------------|-----|------------------|-------------------|
 | 2306 2400KV brushless motors     | 4   | $17.36           | $70.00            |
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
-| Flight Controller (F4)           | 1   | $25.00           | $25.00            |
-| Carbon Fiber Arms                | 1   | -                | -                 |
+| speedybee f405 fc                | 1   | $25.00           | $25.00            |
+| Arms (printing legion)           | 1   | -                | -                 |
 | Top Plate (printing legion)      | 1   | -                | -                 |
 | Bottom Plate (printing legion)   | 1   | -                | -                 |
 | M3 Screws & Standoffs            | 1   | $6.00            | $6.00             |
@@ -71,30 +71,11 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 
 ---
 
-## Status
-
-Current status: **waiting for print time and funding approval**  
-Files are locked, model is ready, and just vibing till the build can actually happen. Once the plates are cut and parts arrive, the full build log will drop in `journal.md`.
-
----
-
-## File Dump
-
-- `driftwing_frame_top.stl`  
-- `driftwing_frame_bottom.stl`  
-- `driftwing_stack_mount.fcstd`  
-- `driftwing_bom.csv`  
-- `journal.md` – WIP build diary  
-- `driftwing_complete.fusionarchive`  
-
----
-
 ## Credits
 
 - Designed by me (obviously)  
-- Flight gear choices helped and pre-reviewed by **@toby** (Slack MVP)  
+- Flight gear choices helped and pre-reviewed by **@toby** (hc slack)
 - Modeled in Fusion 360  
-- Soon to be printed in **Legion’s 3D printer dungeon**
 
 ---
 
