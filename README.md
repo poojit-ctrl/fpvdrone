@@ -14,7 +14,7 @@ This thing isn’t printed yet, btw. The model is locked and loaded in Fusion 36
 
 ---
 
-## The Vibe
+## what came into my mind when i designed it
 
 DriftWing was designed from scratch in Fusion 360 with the idea of keeping things modular, fixable, and crash-forgiving. The frame uses custom top and bottom plates that can either be 3D printed in PLA+ or laser-cut in carbon fiber if budget allows. The arms are separated for easier swaps when the inevitable faceplant happens. Every screw, standoff, and capacitor has its space.
 
