@@ -70,6 +70,25 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 **Total Cost:** **$234.20**
 
 ---
+## gallery 
+<img width="981" height="1079" alt="Screenshot 2025-07-12 215111" src="https://github.com/user-attachments/assets/752988f6-cb8d-49e7-8392-f2438d42e4c4" />
+<img width="981" height="644" alt="Screenshot 2025-07-12 135622" src="https://github.com/user-attachments/assets/236817ec-d83d-403d-b8bb-7c4622217863" />
+<img width="981" height="818" alt="Screenshot 2025-07-12 131958" src="https://github.com/user-attachments/assets/1900212e-380a-4313-a3f4-d2a020007a7c" />
+<img width="981" height="862" alt="Screenshot 2025-07-12 131504" src="https://github.com/user-attachments/assets/414e836d-0cd9-4bd4-956d-dc1142aaec27" />
+<img width="981" height="886" alt="Screenshot 2025-07-12 130217" src="https://github.com/user-attachments/assets/aa2c4544-f619-4954-9f38-6569cffa42f0" />
+<img width="981" height="1051" alt="Screenshot 2025-07-12 125817" src="https://github.com/user-attachments/assets/cca34340-c424-40d0-8ffc-c109fe400c9a" />
+<img width="981" height="568" alt="Screenshot 2025-07-12 122857" src="https://github.com/user-attachments/assets/70aee77d-3a32-4e3b-8ba1-7e26c8b78881" />
+<img width="981" height="1086" alt="Screenshot 2025-07-12 120719" src="https://github.com/user-attachments/assets/0a460d03-675e-4c1d-8bf5-c0fdfed002cb" />
+<img width="981" height="797" alt="Screenshot 2025-07-12 120631" src="https://github.com/user-attachments/assets/c8f0e488-869a-4d08-9478-9687b1284239" />
+<img width="981" height="968" alt="Screenshot 2025-07-12 120504" src="https://github.com/user-attachments/assets/3d0a2399-541d-4d82-81ca-cdf5ab78a782" />
+<img width="981" height="988" alt="Screenshot 2025-07-12 113212" src="https://github.com/user-attachments/assets/49933f9b-2b42-48a5-9fd3-335ba26dca15" />
+<img width="981" height="881" alt="Screenshot 2025-07-12 111911" src="https://github.com/user-attachments/assets/6f05af49-65a6-485e-a193-c278ff53a943" />
+<img width="981" height="831" alt="Screenshot 2025-07-12 111439" src="https://github.com/user-attachments/assets/f8969d2c-79bb-4d4d-bd37-de2b335124ae" />
+<img width="981" height="973" alt="Screenshot 2025-07-12 111144" src="https://github.com/user-attachments/assets/3e33787e-cb8b-45fd-b894-7d6499cec758" />
+<img width="981" height="875" alt="Screenshot 2025-07-12 110707" src="https://github.com/user-attachments/assets/8b9c038f-0048-44fb-91fe-315ea6209833" />
+<img width="981" height="686" alt="Screenshot 2025-07-12 183504" src="https://github.com/user-attachments/assets/ebb1b6f3-880c-4f25-9fbb-51a374bb8ad0" />
+
+---
 
 ## Credits
 
