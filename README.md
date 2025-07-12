@@ -10,7 +10,7 @@ This thing isn’t printed yet, btw. The model is locked and loaded in Fusion 36
 
 | Image | Description |
 |-------|-------------|
-| ![driftwing-frame](https://github.com/user-attachments/assets/driftwing-model.png) | Full Fusion 360 render of the frame. All parts modeled to scale with 5" props. Waiting to get this printed/cut. |
+| <img width="1115" height="1079" alt="image" src="https://github.com/user-attachments/assets/5126aad3-5796-4767-bd78-72bf099c6734" /> | Full Fusion 360 render of the frame. All parts modeled to scale with 5" props |
 
 ---
 
@@ -43,7 +43,7 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 
 | Component                        | Qty | Unit Price (USD) | Total Price (USD) |
 |----------------------------------|-----|------------------|-------------------|
-| Brushless Motors (2306 2400KV)   | 4   | $17.36           | $70.00            |
+| 2306 2400KV brushless motors     | 4   | $17.36           | $70.00            |
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
 | Flight Controller (F4)           | 1   | $25.00           | $25.00            |
 | Carbon Fiber Arms                | 1   | -                | -                 |
