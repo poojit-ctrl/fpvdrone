@@ -115,5 +115,5 @@ Final render. Final sanity checks. Did a full dry run of what components will go
 
 ---
 
-> Built under Hack Club Highway hack club using Fusion 360  
+> Built under Hack Club Highway ysws using Fusion 360  
 > Give credits to @toby on Slack for early motor advice + feedback  
