@@ -1,30 +1,45 @@
 # DriftWing FPV Drone
 
-This is **DriftWing**, a compact and lightweight FPV drone designed from scratch for speed, agility, and freestyle flying. With custom-designed plates and frame made from laser-cut carbon fiber or 3D printed PLA+ parts, this quad was built to be lightweight without compromising on rigidity. It's perfect for beginners looking to build their first FPV setup or tinkerers who love DIY drones.
+DriftWing is that one FPV drone you design in your head during boring lectures and then actually build when you finally have the time and brainpower. It’s a freestyle rig that’s super lightweight, fully custom, and made to do flips, dives, and maybe crash a few times without crying.
 
-DriftWing was designed in Fusion 360, assembled with patience, and tuned for performance. It supports both analog FPV setups and has enough headroom to strap on a GoPro mount (print it if you want it).
-
----
-
-## Features
-
-The DriftWing is designed around a minimalist but functional build. Four 2306 2400KV motors paired with 5-inch tri-blade props provide more than enough thrust. It rocks a 4-in-1 ESC for clean wiring and reduced weight, and is paired with a tried-and-tested F4 flight controller. The stack is modular, crash-friendly, and easy to maintain.
-
-The analog FPV system is powered by a solid 700TVL camera and a 5.8GHz VTX, all wired through a custom power distribution board. The frame was modeled to keep the center of gravity tight and support different battery placements (top-mount or bottom-mount). There's even room for a GPS module for return-to-home failsafes.
+This thing isn’t printed yet, btw. The model is locked and loaded in Fusion 360, but we’re waiting on a green signal for project approval and some grant money to get it out of CAD and into the air. Big shoutout to **@toby** on Slack for helping me pick the right motors and reviewing the design before it even existed IRL. Legend move.
 
 ---
 
-## Design Preview
+## Frame Preview
 
 | Image | Description |
 |-------|-------------|
-| ![driftwing-3d](https://github.com/user-attachments/assets/driftwing-model.png) | Full 3D render of the drone in Fusion 360 |
+| ![driftwing-frame](https://github.com/user-attachments/assets/driftwing-model.png) | Full Fusion 360 render of the frame. All parts modeled to scale with 5" props. Waiting to get this printed/cut. |
+
+---
+
+## The Vibe
+
+DriftWing was designed from scratch in Fusion 360 with the idea of keeping things modular, fixable, and crash-forgiving. The frame uses custom top and bottom plates that can either be 3D printed in PLA+ or laser-cut in carbon fiber if budget allows. The arms are separated for easier swaps when the inevitable faceplant happens. Every screw, standoff, and capacitor has its space.
+
+It’s got that “I-built-this-in-my-room” energy but backed by a parts list that can punch with the big brands. The wiring is clean thanks to the 4-in-1 ESC stack, and the VTX and analog cam give it old-school FPV vibes without sacrificing clarity.
+
+---
+
+## Tech Specs
+
+- Motor-to-motor distance fits 5-inch props  
+- 2306 2400KV motors (recommended by @toby)  
+- 4-in-1 ESC (30A) with solder tabs facing up  
+- F4 Flight Controller, stack-mounted  
+- Power distribution through a separate PDB  
+- XT60 battery input with a 470uF cap for that ripple control  
+- GPS module slot for Return-To-Home  
+- Space for analog FPV cam + VTX  
+- GoPro mount spot up front (optional but modeled in)  
+- Foam landing pads and battery strap support
 
 ---
 
 ## Bill of Materials
 
-This is the complete breakdown of the parts used in this FPV drone build. The transmitter and receiver are not included here as they are being DIY-ed separately.
+This is everything it’ll take to bring DriftWing from file to flight. No receiver or transmitter listed here because that’s gonna be DIY.
 
 | Component                        | Qty | Unit Price (USD) | Total Price (USD) |
 |----------------------------------|-----|------------------|-------------------|
@@ -56,36 +71,37 @@ This is the complete breakdown of the parts used in this FPV drone build. The tr
 
 ---
 
-## Files Included
+## Status
 
-- `frame_top.stl`  
-- `frame_bottom.stl`  
-- `driftwing_flight_stack.fcstd`  
-- `drone_bom.csv`  
-- `journal.md` – Build log with design thoughts  
-- `driftwing.fusionarchive` – Fusion 360 full assembly
+Current status: **waiting for print time and funding approval**  
+Files are locked, model is ready, and just vibing till the build can actually happen. Once the plates are cut and parts arrive, the full build log will drop in `journal.md`.
 
 ---
 
-## How to Build
+## File Dump
 
-1. Print or cut the frame components  
-2. Assemble the stack with the ESC and flight controller  
-3. Solder the motors to ESC pads  
-4. Mount the FPV camera and VTX  
-5. Add the XT60 and capacitor to the PDB  
-6. Install the firmware on your flight controller  
-7. Test motor directions and gyro  
-8. Mount the props and strap on a battery  
-9. Goggles down, power up, and fly
+- `driftwing_frame_top.stl`  
+- `driftwing_frame_bottom.stl`  
+- `driftwing_stack_mount.fcstd`  
+- `driftwing_bom.csv`  
+- `journal.md` – WIP build diary  
+- `driftwing_complete.fusionarchive`  
 
 ---
 
-## Licensing
+## Credits
 
-This project is open-source under the MIT License.  
-Feel free to remix, mod, or fork this and make your own freestyle flyer.
+- Designed by me (obviously)  
+- Flight gear choices helped and pre-reviewed by **@toby** (Slack MVP)  
+- Modeled in Fusion 360  
+- Soon to be printed in **Legion’s 3D printer dungeon**
 
 ---
 
-built in fusion 360 and printed in legion’s printer cave
+## License
+
+MIT License. Clone it, mod it, crash it, post the footage.
+
+---
+
+when it flies, it'll scream
