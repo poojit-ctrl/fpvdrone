@@ -134,5 +134,5 @@ made the receiver
 | receiver pcb screenshot    | <img width="615" height="465" alt="image" src="https://github.com/user-attachments/assets/aa5b21c1-05a1-410a-9f16-84f44b8a08dc" /> |
 ---
 
-> Built made Hack Club Highway ysws using Fusion 360  
+> Built for Hack Club Highway ysws using Fusion 360  
 > Give credits to @toby on Slack for early motor advice + feedback  
