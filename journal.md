@@ -1,4 +1,5 @@
-<img width="1043" height="968" alt="Screenshot 2025-07-12 120504" src="https://github.com/user-attachments/assets/4b60cb69-ff80-4368-b357-f84c3281d6ad" /># Build Log: Flybee Modular Frame
+<img width="1115" height="1079" alt="image" src="https://github.com/user-attachments/assets/46646072-742e-4115-bad9-3757e18b28da" />
+# Build Log: Flybee Modular Frame
 
 ## Project Info
 
@@ -113,6 +114,24 @@ Final render. Final sanity checks. Did a full dry run of what components will go
 |--------------------------------|-------------------------------------|
 | Final modular frame render     | <img width="1528" height="862" alt="Screenshot 2025-07-12 131504" src="https://github.com/user-attachments/assets/8dcf39c5-3898-46cd-beea-7250561c509e" /> |
 
+---
+
+### Log 10   July 13   1 hours  
+Made the transmitter
+
+#### 📸 Image
+| Description                    | Image Filename                     |
+|--------------------------------|-------------------------------------|
+| transmitter pcb screenshot   | <img width="1179" height="645" alt="image" src="https://github.com/user-attachments/assets/4c787fe4-5143-473d-98a3-ff4c4f3b5b83" /> |
+
+---
+### Log 10   July 13   1 hours  
+made the receiver 
+
+#### 📸 Image
+| Description                    | Image Filename                     |
+|--------------------------------|-------------------------------------|
+| receiver pcb screenshot    | <img width="615" height="465" alt="image" src="https://github.com/user-attachments/assets/aa5b21c1-05a1-410a-9f16-84f44b8a08dc" /> |
 ---
 
 > Built under Hack Club Highway ysws using Fusion 360  
