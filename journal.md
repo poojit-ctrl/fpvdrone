@@ -9,7 +9,7 @@
 | Project Name     | driftwing (FPV Drone Frame)      |
 | Purpose          | Designed for modularity + racing |
 | Status           | Waiting for grant + approval     |
-| Total Hours Spent| 30 hours                         |
+| Total Hours Spent| 32 hours                         |
 | Timeline         | July 3 – July 13, 2025           |
 
 ---
