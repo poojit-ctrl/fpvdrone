@@ -21,7 +21,17 @@ DriftWing was designed from scratch in Fusion 360 with the idea of keeping thing
 It’s got that “I-built-this-in-my-room” energy but backed by a parts list that can punch with the big brands. The wiring is gonna be clean thanks to the 4-in-1 ESC stack, and the VTX and analog cam give it old-school FPV vibes without sacrificing clarity.
 
 ---
+## diy transmitter and receiver 
 
+| Image | Description |
+|-------|-------------|
+| <img width="981" height="645" alt="Screenshot 2025-07-13 180246" src="https://github.com/user-attachments/assets/4fc16777-131c-4189-bc38-7dc31b6c7912" /> | Full Fusion 360 render of the frame. All parts modeled to scale with 5" props |
+
+| Image | Description |
+|-------|-------------|
+| <img width="981" height="465" alt="image" src="https://github.com/user-attachments/assets/a6f139bc-ddb1-46d2-b029-fda4235fea1b" /> | diy receiver  |
+
+---
 ## Tech Specs
 
 - Motor-to-motor distance fits 5-inch props  
@@ -87,6 +97,11 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 <img width="981" height="973" alt="Screenshot 2025-07-12 111144" src="https://github.com/user-attachments/assets/3e33787e-cb8b-45fd-b894-7d6499cec758" />
 <img width="981" height="875" alt="Screenshot 2025-07-12 110707" src="https://github.com/user-attachments/assets/8b9c038f-0048-44fb-91fe-315ea6209833" />
 <img width="981" height="686" alt="Screenshot 2025-07-12 183504" src="https://github.com/user-attachments/assets/ebb1b6f3-880c-4f25-9fbb-51a374bb8ad0" />
+<img width="981" height="465" alt="image" src="https://github.com/user-attachments/assets/a6f139bc-ddb1-46d2-b029-fda4235fea1b" />
+<img width="981" height="645" alt="Screenshot 2025-07-13 180246" src="https://github.com/user-attachments/assets/4fc16777-131c-4189-bc38-7dc31b6c7912" />
+
+
+
 
 ---
 
