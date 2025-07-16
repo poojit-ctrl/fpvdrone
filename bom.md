@@ -2,7 +2,7 @@
 |----------------------------------|-----|------------------|-------------------|
 | 2306 2400KV brushless motors     | 4   | $17.36           | $70.00            |
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
-| speedybee f405 fc                | 1   | $25.00           | $25.00            |
+| speedybee f405 fc                | 1   | $25.00           | 0 (buying it myself from a local vendor)|
 | Arms (printing legion)           | 1   | -                | -                 |
 | Top Plate (printing legion)      | 1   | -                | -                 |
 | Bottom Plate (printing legion)   | 1   | -                | -                 |
