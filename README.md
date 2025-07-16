@@ -55,7 +55,7 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 |----------------------------------|-----|------------------|-------------------|
 | 2306 2400KV brushless motors     | 4   | $17.36           | $70.00            |
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
-| speedybee f405 fc                | 1   | $25.00           | $25.00            |
+| speedybee f405 fc                | 1   | local vendor     | 0(paying it myself)|
 | Arms (printing legion)           | 1   | -                | -                 |
 | Top Plate (printing legion)      | 1   | -                | -                 |
 | Bottom Plate (printing legion)   | 1   | -                | -                 |
@@ -77,7 +77,7 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 | Silicone Wires (14AWG, 20AWG)    | 1   | $3.00            | $3.00             |
 | Flight Stack Mounting Grommets   | 1   | $1.50            | $1.50             |
 
-**Total Cost:** **$234.20**
+**Total Cost:** **$209.20**
 
 ---
 ## gallery 
