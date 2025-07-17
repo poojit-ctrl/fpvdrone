@@ -54,7 +54,7 @@ It’s got that “I-built-this-in-my-room” energy but backed by a parts list 
 
 ## Bill of Materials
 
-This is everything it’ll take to bring DriftWing from file to flight. No receiver or transmitter listed here because that’s gonna be DIY.
+This is everything it’ll take to bring DriftWing from file to flight. No receiver, transmitter or flight controller listed here because that’s gonna be DIY.
 
 | Component                        | Qty | Unit Price (USD) | Total Price (USD) |
 |----------------------------------|-----|------------------|-------------------|
