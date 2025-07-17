@@ -31,6 +31,11 @@ It’s got that “I-built-this-in-my-room” energy but backed by a parts list 
 |-------|-------------|
 | <img width="1309" height="874" alt="image" src="https://github.com/user-attachments/assets/ca5ec11d-e8d7-45e9-a816-e599d6939623" /> | diy receiver  |
 
+| Image | Description |
+|-------|-------------|
+| <img width="865" height="878" alt="Screenshot 2025-07-18 004724" src="https://github.com/user-attachments/assets/be6ea970-3984-4e78-bb8d-0f8f582ead1a" /> | flight controller  |
+
+
 ---
 ## Tech Specs
 
@@ -55,7 +60,6 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 |----------------------------------|-----|------------------|-------------------|
 | 2306 2400KV brushless motors     | 4   | $17.36           | $70.00            |
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
-| speedybee f405 fc                | 1   | local vendor     | 0(paying it myself)|
 | Arms (printing legion)           | 1   | -                | -                 |
 | Top Plate (printing legion)      | 1   | -                | -                 |
 | Bottom Plate (printing legion)   | 1   | -                | -                 |
@@ -77,7 +81,7 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 | Silicone Wires (14AWG, 20AWG)    | 1   | $3.00            | $3.00             |
 | Flight Stack Mounting Grommets   | 1   | $1.50            | $1.50             |
 
-# note: in my submission i mentioned the bom as 234 ignore that as i found a place to get a cheap speedybee flight controller, thus the updated bom is 209.20 usd.
+# note: in my submission i mentioned the bom as 234 ignore that as i made my own flight controller, thus the updated bom is 209.20 usd.
 **Total Cost:** **$209.20**
 
 ---
