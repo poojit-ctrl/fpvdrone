@@ -104,6 +104,8 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 <img width="981" height="686" alt="Screenshot 2025-07-12 183504" src="https://github.com/user-attachments/assets/ebb1b6f3-880c-4f25-9fbb-51a374bb8ad0" />
 <img width="615" height="465" alt="Screenshot 2025-07-13 184458" src="https://github.com/user-attachments/assets/a27f617e-6aee-427d-a012-a9f356aa23e8" />
 <img width="981" height="645" alt="Screenshot 2025-07-13 180246" src="https://github.com/user-attachments/assets/4fc16777-131c-4189-bc38-7dc31b6c7912" />
+<img width="865" height="878" alt="Screenshot 2025-07-18 004724" src="https://github.com/user-attachments/assets/c89050ab-c419-4ed3-82ea-54b1f5f9fd1b" />
+
 
 
 
