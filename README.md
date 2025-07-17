@@ -29,7 +29,7 @@ It’s got that “I-built-this-in-my-room” energy but backed by a parts list 
 
 | Image | Description |
 |-------|-------------|
-|  | diy receiver  |
+| <img width="1309" height="874" alt="image" src="https://github.com/user-attachments/assets/ca5ec11d-e8d7-45e9-a816-e599d6939623" /> | diy receiver  |
 
 ---
 ## Tech Specs
