@@ -1,4 +1,4 @@
-| Component                        | Qty | Unit Price (USD) | Total Price (USD) |
+**| Component                        | Qty | Unit Price (USD) | Total Price (USD) |
 |----------------------------------|-----|------------------|-------------------|
 | 2306 2400KV brushless motors     | 4   | $17.36           | $70.00            |
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
@@ -23,3 +23,4 @@
 | Heat Shrink Tubing               | 1   | $1.00            | $1.00             |
 | Silicone Wires (14AWG, 20AWG)    | 1   | $3.00            | $3.00             |
 | Flight Stack Mounting Grommets   | 1   | $1.50            | $1.50             |
+**
