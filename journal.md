@@ -116,7 +116,7 @@ Final render. Final sanity checks. Did a full dry run of what components will go
 
 ---
 
-### Log 10   July 13   1 hours  
+### Log 11   July 13   1 hours  
 Made the transmitter
 
 #### Image
@@ -125,13 +125,23 @@ Made the transmitter
 | transmitter pcb screenshot   | <img width="1179" height="645" alt="image" src="https://github.com/user-attachments/assets/4c787fe4-5143-473d-98a3-ff4c4f3b5b83" /> |
 
 ---
-### Log 10   July 13   1 hours  
+### Log 12   July 13   1 hours  
 made the receiver 
 
 #### Image
 | Description                    | Image Filename                     |
 |--------------------------------|-------------------------------------|
 | receiver pcb screenshot    | <img width="615" height="465" alt="image" src="https://github.com/user-attachments/assets/aa5b21c1-05a1-410a-9f16-84f44b8a08dc" /> |
+---
+
+### Log 13   July 17   1 hours  
+made the receiver 
+
+#### Image
+| Description                    | Image Filename                     |
+|--------------------------------|-------------------------------------|
+| fc pcb screenshot    | <img width="865" height="878" alt="Screenshot 2025-07-18 004724" src="https://github.com/user-attachments/assets/aec57d78-00a8-4d3d-a246-ea387bad2873" />
+ |
 ---
 
 > Built for Hack Club Highway ysws using Fusion 360  
