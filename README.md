@@ -58,7 +58,7 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 
 | Component                        | Qty | Unit Price (USD) | Total Price (USD) |
 |----------------------------------|-----|------------------|-------------------|
-| 2306 2400KV brushless motors     | 4   | $17.36           | $70.00            |
+| 2207 2400KV brushless motors     | 4   | $17.36           | $70.00            |
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
 | Arms (printing legion)           | 1   | -                | -                 |
 | Top Plate (printing legion)      | 1   | -                | -                 |
