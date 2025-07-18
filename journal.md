@@ -135,7 +135,7 @@ made the receiver
 ---
 
 ### Log 13   July 17   1 hours  
-made the receiver 
+made the fc 
 
 #### Image
 | Description                    | Image Filename                     |
