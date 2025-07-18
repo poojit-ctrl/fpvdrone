@@ -117,7 +117,7 @@ Final render. Final sanity checks. Did a full dry run of what components will go
 ---
 
 ### Log 11   July 13   1 hours  
-Made the transmitter
+this is what i use to control the drone. it sends signals to the receiver, like throttle, yaw, pitch, and roll basically all the movement stuff.
 
 #### Image
 | Description                    | Image Filename                     |
@@ -126,8 +126,9 @@ Made the transmitter
 
 ---
 ### Log 12   July 13   1 hours  
-made the receiver 
-
+the receiver board was super tiny, so i had to be careful with the layout. placed the antenna module first, then worked my way around it.
+i routed the power lines thick and clean, then squeezed the signal traces into whatever space was left.
+kept everything low-noise and added filtering caps close to the power input and near the data lines.
 #### Image
 | Description                    | Image Filename                     |
 |--------------------------------|-------------------------------------|
@@ -135,7 +136,8 @@ made the receiver
 ---
 
 ### Log 13   July 17   1 hours  
-made the fc 
+designing the FC PCB was kinda the most intense part. this thing connects everything ESCs, receiver, gyro, USB, power , so routing got hectic fast.
+i started with the MPU and MCU, placed them dead center to keep the traces equal. 
 
 #### Image
 | Description                    | Image Filename                     |
