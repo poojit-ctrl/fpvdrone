@@ -1,6 +1,6 @@
 | Component                        | Qty | Unit Price (USD) | Total Price (USD) | Buying Link |
 |----------------------------------|-----|------------------|-------------------|-------------| 
-| 2207 2400KV brushless motors     | 4   | $17.36           | $70.00            | [Robu]([https://example.com](https://robu.in/product/emax-ecoii-2207-2400kv-brushless-motor/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWdxQrPxSjD0fhsSR48jH6jVM&gclid=CjwKCAjwvuLDBhAOEiwAPtF0VkB7NICJlGv4G-tRzAZ0HVJ98DY_Co5Ia1zunBQpRoBU1Lz-YdDiDBoCrl4QAvD_BwE))
+| 2207 2400KV brushless motors     | 4   | $17.36           | $70.00            | [Robu](https://example.com](https://robu.in/product/emax-ecoii-2207-2400kv-brushless-motor/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWdxQrPxSjD0fhsSR48jH6jVM&gclid=CjwKCAjwvuLDBhAOEiwAPtF0VkB7NICJlGv4G-tRzAZ0HVJ98DY_Co5Ia1zunBQpRoBU1Lz-YdDiDBoCrl4QAvD_BwE )
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
 | Arms (printing legion)           | 1   | -                | -                 |
 | Top Plate (printing legion)      | 1   | -                | -                 |
