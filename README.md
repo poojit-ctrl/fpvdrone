@@ -60,9 +60,9 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 |----------------------------------|-----|------------------|-------------------|
 | 2207 2400KV brushless motors     | 4   | $17.36           | $70.00            |
 | 4-in-1 ESC 30A                   | 1   | $35.00           | $35.00            |
-| Arms (printing legion)           | 1   | -                | -                 |
-| Top Plate (printing legion)      | 1   | -                | -                 |
-| Bottom Plate (printing legion)   | 1   | -                | -                 |
+| Arms (petg-cf)(own expense)          | 1   | -                | -                 |
+| Top Plate (petg-cf)(own expense)      | 1   | -                | -                 |
+| Bottom Plate (petg-cf)(own expense)   | 1   | -                | -                 |
 | M3 Screws & Standoffs            | 1   | $6.00            | $6.00             |
 | 5-inch Tri-blade Props           | 4   | $1.50            | $6.00             |
 | XT60 Connector                   | 1   | $1.20            | $1.20             |
@@ -73,7 +73,6 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 | FPV Camera (Analog)              | 1   | $18.00           | $18.00            |
 | Video Transmitter (VTX)          | 1   | $15.00           | $15.00            |
 | Antenna (VTX)                    | 1   | $4.00            | $4.00             |
-| GoPro Mount (printing legion)    | 0   | -                | -                 |
 | GPS Module                       | 1   | $12.00           | $12.00            |
 | Buzzer with LED                  | 1   | $2.00            | $2.00             |
 | Foam Landing Pads                | 4   | $0.50            | $2.00             |
