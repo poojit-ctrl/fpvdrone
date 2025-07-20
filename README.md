@@ -38,6 +38,12 @@ It’s got that “I-built-this-in-my-room” energy but backed by a parts list 
 | Image | Description |
 |-------|-------------|
 | <img width="524" height="551" alt="image" src="https://github.com/user-attachments/assets/fefb87d7-052f-427f-a207-87b40bd5de80" /> | flight controller 3d render |
+| Image | Description |
+|-------|-------------|
+| <img width="1032" height="646" alt="image" src="https://github.com/user-attachments/assets/623e0f86-d0e6-4a18-9411-f2992d433b41" /> | Transmitter 3d render |
+| Image | Description |
+|-------|-------------|
+| <img width="1047" height="859" alt="image" src="https://github.com/user-attachments/assets/390dcff7-e58e-4e41-9ddf-fdb453155900" /> | Receiver 3d render |
 
 ---
 ## Tech Specs
