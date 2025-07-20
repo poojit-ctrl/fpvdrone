@@ -35,6 +35,9 @@ It’s got that “I-built-this-in-my-room” energy but backed by a parts list 
 |-------|-------------|
 | <img width="865" height="878" alt="Screenshot 2025-07-18 004724" src="https://github.com/user-attachments/assets/be6ea970-3984-4e78-bb8d-0f8f582ead1a" /> | flight controller ( more layers cus so much routing) |
 
+| Image | Description |
+|-------|-------------|
+| <img width="524" height="551" alt="image" src="https://github.com/user-attachments/assets/fefb87d7-052f-427f-a207-87b40bd5de80" /> | flight controller 3d render |
 
 ---
 ## Tech Specs
