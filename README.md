@@ -88,6 +88,9 @@ This is everything it’ll take to bring DriftWing from file to flight. No recei
 | Heat Shrink Tubing               | 1   | $1.00            | $1.00             |
 | Silicone Wires (14AWG, 20AWG)    | 1   | $3.00            | $3.00             |
 | Flight Stack Mounting Grommets   | 1   | $1.50            | $1.50             |
+| Flight Controller                | 1   | 0(already have it)| $1.00             |
+| Receiver                         | 1   | 0(already have it)| $3.00             |
+| Transmitter                      | 1   | 0(already have it)| $1.50             |
 
 # note: in my submission i mentioned the bom as 234 ignore that as i made my own flight controller, thus the updated bom is 209.20 usd.
 **Total Cost:** **$209.20**
